@@ -3,26 +3,14 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Hi I'm Marc 🙂
 
-### Features
+Looks like you've stumbled upon my notes.
+I call them mnotes.
+Mainly because my name starts with m. And they're my notes.
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+If you want to take a look at some polished work, you can take a look at my [journal][1]!
 
-### Screenshot
+If you need me, email me at hi@marcbeep.com.
 
-![Screenshot](screenshot.png)
+[1][https://www.marcbeep.com/journal]
