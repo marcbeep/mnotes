@@ -10,7 +10,7 @@ Mainly because my name starts with m. And they're my notes.
 
 A bit about these notes:
 * They're meant to be [evergreen](https://notes.andymatuschak.org/Evergreen_note-writing_as_fundamental_unit_of_knowledge_work).
-Meaning they are constantly changing and evolving.
+Meaning they are constantly changing, evolving and do not follow a particular structure.
 * They should be [atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic) and [densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC).
 * They are largely for my own benefit, but I've made them public so I easily send
 them to friends using [short urls](https://sive.rs/su).
