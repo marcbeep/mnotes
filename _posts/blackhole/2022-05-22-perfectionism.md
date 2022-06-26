@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perfectionism is an excuse for fear
+title: Perfectionism is fear
 description:
 tags: [personal]
 permalink: /perfectionism

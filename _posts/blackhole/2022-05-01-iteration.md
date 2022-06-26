@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Iteration Cycle
+title: The iteration cycle
 description: From the Personal MBA
 tags: [business]
 permalink: /iteration

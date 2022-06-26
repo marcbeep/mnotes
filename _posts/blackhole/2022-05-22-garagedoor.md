@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Work with the Garage Door up
+title: Work with the garage door up
 description:
 tags: [personal]
 permalink: /garagedoor
