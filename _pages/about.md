@@ -17,5 +17,6 @@ them to friends using [short urls](https://sive.rs/su).
 * They are written in [markdown](https://sive.rs/plaintext), so they are software independent.
 * Over time, they will represent my collection of knowledge accumulated.
 
+
 > If you want to take a look at some polished work, you can take a look at my [main website](https://www.marcbeep.com)!
 > If you need me, email me at hi@marcbeep.com.
