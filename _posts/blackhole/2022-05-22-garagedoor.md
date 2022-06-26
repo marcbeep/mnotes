@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Perfectionism is an excuse for fear
+title: Work with the Garage Door up
 description:
 tags: [personal]
-permalink: /perfectionism
+permalink: /garagedoor
 ---
 
-A lot of the time, we hide behind the guise of perfectionism because, in reality, we are just afraid that everyone will harshly judge what we produce. It’s difficult to start a business when your biggest fear is: “What if I open the door to customers and no one shows up”.
+Let us behind the scenes of whatever you’re making. Show us the steps behind the brushstrokes of your next painting. Show us the unfinished piece. Why? Because it’s important to show the process. It’s a form of “anti-marketing”.
 
-So instead, you hide behind “getting the product exactly right” before you release it and it ends up taking months until – inevitably – you realise you don’t want to do it anymore.
+Progress isn’t linear. You don’t keep producing hit after hit after hit. Even some of the greats produce duds (see: Once Upon a Time in Hollywood). Instead of showing the rosiest picture of your work, you would have shown the challenges you encountered.
 
-Instead, you should give yourself permission to fail: fail cheaply and fail lots of times.
+It builds a deeper, more authentic relationship with your audience/customers. This is a form of “watering the seedlings” in your garden.
