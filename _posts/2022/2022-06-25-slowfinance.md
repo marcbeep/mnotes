@@ -3,7 +3,7 @@ layout: post
 title: Slow finance
 description: Written by Gervais Williams
 tags: [books]
-permalink: /slow
+permalink: /slowfinance
 ---
 
 No notes yet.
