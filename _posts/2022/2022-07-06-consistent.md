@@ -6,9 +6,7 @@ tags: [personal]
 permalink: /consistent
 ---
 
-I asked my landlord about how he got into property and how I can myself.
-
-He gave me some profound advice:
+My landlord of all people gave me some profound advice:
 
 > Don't worry about the money. It will come.
 > If you get up every morning and work, it will come.
