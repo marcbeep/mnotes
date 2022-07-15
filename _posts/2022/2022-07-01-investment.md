@@ -16,10 +16,11 @@ ANTICIPATED AVERAGE ANNUAL RETURN: 5%
 
 ### Strategy
 * My portfolio will be as follows:
-    1. Vanguard S&P500 - 25%
-    2. Vanguard FTSE 100 - 25%
-    3. Vanguard Emerging Markets - 25%
-    4. Vanguard Small-Cap - 25%
+    1. US Equities Index - 20%
+    2. FTSE 100 Index - 20%
+    3. Global Emerging Markets Index - 20%
+    4. Global SmallCap Index - 20%
+    5. Global Bonds Index - 20%
 * Reinvest all dividends.
 * Max out tax advantaged accounts such as ISAs first before moving to general brokerage accounts.
 * Rebalance annually on Oct 3rd.
